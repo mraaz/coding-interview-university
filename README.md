@@ -136,7 +136,7 @@ If you want to be a reliability engineer or operations engineer, study more from
     - [Cryptography](#cryptography)
     - [Compression](#compression)
     - [Computer Security](#computer-security)
-    X [Garbage collection](#garbage-collection)
+    - [X] [Garbage collection](#garbage-collection)
     - [Parallel Programming](#parallel-programming)
     - [Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
     - [A*](#a)
